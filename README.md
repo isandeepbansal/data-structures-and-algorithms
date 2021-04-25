@@ -4,3 +4,5 @@ Algorithm is just the steps that you take to solve a problem.
 
 1. **Caching using object (aka hash table)**
 2. **Memoization using closure**
+
+# Recursion
