@@ -1,3 +1,6 @@
 Algorithm is just the steps that you take to solve a problem.
 
-# Optimization and Caching
+# Technique for Optimization and Caching
+
+1. **Caching using object (aka hash table)**
+2. **Memoization using closure**
