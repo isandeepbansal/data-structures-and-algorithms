@@ -1,8 +1,3 @@
-Algorithm is just the steps that you take to solve a problem.
+# Big O
 
-# Technique for Optimization and Caching
-
-1. **Caching using object (aka hash table)**
-2. **Memoization using closure**
-
-# Recursion
+![Big O](https://github.com/isandeepbansal/data-structures-and-algorithms/tree/main/assets/bog-o.png)
