@@ -1,0 +1,6 @@
+.subTopics {
+  margin-top: 25px;
+}
+.subTopic:not(:last-child) {
+  margin-bottom: 10px;
+}
