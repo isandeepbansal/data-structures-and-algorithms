@@ -4,8 +4,6 @@
 
 ## Big O
 
-![Big O](https://github.com/isandeepbansal/data-structures-and-algorithms/blob/main/assets/big-o.png)
+Big O is a way of talking about how efficient an algorithm is. Big O is about broad stroke.
 
-# Recursion
-
-1. Base case is when you stop recursing.
+![BigO](https://github.com/isandeepbansal/ds-and-algorithms/blob/main/assets/big-o.png)
