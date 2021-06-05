@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "**Data structure** is a particular way of organizing data in a computer so that it can be used effectively. Example: Arrays, Hash Tables, Linked List, Stack, Queue and etc. **Algorithm** is a sequence of steps to solve a problem.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
