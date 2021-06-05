@@ -1,0 +1,23 @@
+{
+  "name": "ds-and-algorithms",
+  "version": "1.0.0",
+  "description": "**Data structure** is a particular way of organizing data in a computer so that it can be used effectively. Example: Arrays, Hash Tables, Linked List, Stack, Queue and etc. **Algorithm** is a sequence of steps to solve a problem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isandeepbansal/ds-and-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isandeepbansal/ds-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/isandeepbansal/ds-and-algorithms#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
