@@ -1,5 +1,5 @@
 .header {
-  background-color: #000;
+  background-color: #37474f;
   padding: 20px;
   color: #fff;
 }
@@ -8,4 +8,10 @@
   text-transform: uppercase;
   font-size: 17px;
   letter-spacing: 1.5px;
+  display: flex;
+  align-items: center;
+}
+.headerTitle img {
+  height: 35px;
+  margin-right: 5px;
 }

@@ -2,8 +2,8 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Container from "./components/Container";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
+import BigO from "./pages/BigO";
 import Home from "./pages/Home";
-import Recursion from "./pages/Recursion";
 
 const App = () => {
   return (
@@ -13,7 +13,7 @@ const App = () => {
         <Container>
           <Switch>
             <Route path="/" exact component={Home} />
-            <Route path="/recursion" component={Recursion} />
+            <Route path="/big-o" component={BigO} />
           </Switch>
         </Container>
       </div>

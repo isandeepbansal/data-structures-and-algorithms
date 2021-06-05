@@ -6,17 +6,7 @@ import styles from "./Home.module.css";
 
 const Home = () => {
   const TABLE_OF_CONTENT = [
-    { id: "toc1", to: "/", title: "Big O", subTopics: [] },
-    { id: "toc2", to: "/recursion", title: "Recursion", subTopics: [] },
-    {
-      id: "toc3",
-      to: "/",
-      title: "Sorting Algorithms",
-      subTopics: [
-        { id: "sa1", to: "/", title: "Bubble sort" },
-        { id: "sa2", to: "/", title: "Merge sort" },
-      ],
-    },
+    { id: "toc1", to: "/big-o", title: "Big O", subTopics: [] },
   ];
 
   return (
